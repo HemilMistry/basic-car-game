@@ -1,2 +1,2 @@
 # basic-car-game
-Just a small experiment using PyGame :)
+Just a small experiment using PyGame
